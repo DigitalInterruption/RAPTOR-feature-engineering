@@ -1,0 +1,7 @@
+.git
+.github
+README.md
+.pre-commit-config.yaml
+*__pycache__*
+Dockerfile
+.dockerignore
